@@ -1,0 +1,15 @@
+<iostream> //cin, cout, endl, etc..
+
+<string> //Trabajar con string
+
+<cmath> //Funciones matemáticas
+
+<iomanip> //Formato de salida en consola
+
+<fstream> //Similar a <iostream>, pero generamos archivos extras, no se trabaja en consola
+
+
+
+//Son mas usadas en Programación de Estructuras Dinámicas (PED)
+<vector>
+<queue>
